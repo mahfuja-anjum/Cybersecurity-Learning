@@ -1,2 +1,10 @@
 # Cybersecurity-Learning
-My Cybersecurity Learning Journey
+
+# Cybersecurity Learning Journey
+
+## Topics
+- Linux Basics ✅
+- Footprinting ✅
+- Networking ⏳
+- Nmap ⏳
+- Metasploitable ⏳
