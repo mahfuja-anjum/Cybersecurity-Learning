@@ -1,6 +1,6 @@
 # Cybersecurity-Learning
 
-**# Cybersecurity Learning
+** Cybersecurity Learning
 
 ## 👋 About
 This repository documents my cybersecurity learning journey.
